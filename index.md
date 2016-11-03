@@ -2,9 +2,9 @@
 layout: lesson
 root: .
 ---
-FIXME: home page introduction
+This is the introduction for the lesson New-lesson
 
 > ## Prerequisites
 >
-> FIXME
+> These are the prerequisites for this lesson
 {: .prereq}
